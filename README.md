@@ -24,7 +24,7 @@ This repository contains the implementation of Stage 1 (Data Extraction with Ath
 - **Python + boto3:** Custom business logic processing
 
 ## Architecture:
-<img width="741" height="311" alt="Image" src="https://github.com/user-attachments/assets/5be17b3b-a3c5-488d-8433-0d42506a1cd2" />
+<img width="1884" height="933" alt="Image" src="https://github.com/user-attachments/assets/040644e9-1f07-404a-a96a-0742a8823e4f" />
 
 ## Demo Link:
 https://www.loom.com/share/2df829707c8943a185c41945f2e91cad?sid=e3f0a463-1996-4ef0-a308-99a9810ad46a
